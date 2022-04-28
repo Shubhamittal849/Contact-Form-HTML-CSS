@@ -28,7 +28,7 @@ textarea {
 .contact-form {
   background-color: #1abc9c;
   position: relative;
-  padding-bottom: 100px;
+  padding-bottom: 10000px;
 }
 
 .circle {
@@ -124,7 +124,7 @@ textarea.input {
 }
 
 .btn {
-  padding: 0.6rem 10rem;
+  padding: 0.6rem 1.6rem;
   background-color: #fff;
   border: 2px solid #fafafa;
   font-size: 0.95rem;
