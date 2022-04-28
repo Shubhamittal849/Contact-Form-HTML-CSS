@@ -40,7 +40,7 @@ textarea {
 .contact-form {
   background-color: #1abc9c;
   position: relative;
-  min-height: 30rem;
+  padding-bottom: 10rem;
 }
 
 .circle {
@@ -136,7 +136,7 @@ textarea.input {
 }
 
 .btn {
-  padding: 0.6rem 1.3rem;
+  padding-left: 1.3rem;
   background-color: #fff;
   border: 2px solid #fafafa;
   font-size: 0.95rem;
