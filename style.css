@@ -39,6 +39,7 @@ textarea {
 .contact-form {
   background-color: #1abc9c;
   position: relative;
+  width: 100%;
 }
 
 .circle {
