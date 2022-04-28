@@ -12,18 +12,6 @@ textarea {
   font-family: "Poppins", sans-serif;
 }
 
-.container {
-  position: relative;
-  width: 100%;
-  min-height: 250px;
-  padding: 2rem;
-  background-color: #fafafa;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .form {
   width: 100%;
   min-height: 20rem;
@@ -40,7 +28,7 @@ textarea {
 .contact-form {
   background-color: #1abc9c;
   position: relative;
-  padding-bottom: 10rem;
+  padding-bottom: 100px;
 }
 
 .circle {
@@ -136,7 +124,7 @@ textarea.input {
 }
 
 .btn {
-  padding-left: 1.3rem;
+  padding: 0.6rem 10rem;
   background-color: #fff;
   border: 2px solid #fafafa;
   font-size: 0.95rem;
